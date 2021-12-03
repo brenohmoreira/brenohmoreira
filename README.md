@@ -7,9 +7,9 @@
     <br>
   </div>
 
-  <div> <!-- Interfaces -->
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=brenohmoreira&show_icons=true&theme=dark">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenohmoreira&layout=compact&langs_count=16&theme=dark">  
+  <div align="center"> <!-- Interfaces -->
+    <img height="200em" width="800" src="https://github-readme-stats.vercel.app/api?username=brenohmoreira&show_icons=true&theme=dark">
+    <img height="200em" width="1000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenohmoreira&layout=compact&langs_count=16&theme=dark">  
   </div>
 
   <div>
