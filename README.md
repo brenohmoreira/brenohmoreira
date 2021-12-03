@@ -1,5 +1,5 @@
 <div>
-  <div align="center">
+  <div align="center"> <!-- Apresentação -->
     <h3> Olá! sou o Breno Moreira ✋ </h3>
       <p> - Um amante de café ☕ </p>
       <p> - Desenvolvedor web aspirante a Full-Stack 💻 </p> 
@@ -7,12 +7,7 @@
     <br>
   </div>
 
-  <div align="center"> <!-- Redes sociais para contato -->
-    <a href="https://www.linkedin.com/in/breno-am/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a> 
-    <br> <br>
-  </div>
-
-  <div>
+  <div> <!-- Interfaces -->
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brenohmoreira&show_icons=true&theme=dark">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenohmoreira&layout=compact&langs_count=16&theme=dark">  
   </div>
@@ -33,11 +28,16 @@
       <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
     </div>
     <hr>
-    <div align="center">
+    <div align="center"> <!-- Linguagens extras -->
       <h2> Conheço um pouco (não costumo utilizar) </h2>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    </div>
+    <hr>
+    <div align="center"> <!-- Redes sociais --> 
+      <h2> Contato </h2>
+      <a href="https://www.linkedin.com/in/breno-am/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >           </a>
     </div>
   </div>
 </div>
