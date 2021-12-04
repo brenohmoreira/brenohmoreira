@@ -6,8 +6,8 @@
 
   <div align="center"> <!-- Interfaces -->
     <a href="https://github.com/brenohmoreira">
-    <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=brenohmoreira&show_icons=true&theme=noctis_minimus">
-    <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenohmoreira&layout=compact&langs_count=16&theme=noctis_minimus">  
+    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=brenohmoreira&show_icons=true&theme=noctis_minimus">
+    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenohmoreira&layout=compact&langs_count=16&theme=noctis_minimus">  
     </a>
   </div>
   
