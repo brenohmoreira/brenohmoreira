@@ -1,45 +1,39 @@
 <div>
   <div align="center"> <!-- Apresentação -->
-    <h3> Olá! sou o Breno Moreira ✋ </h3>
-      <p> - Um amante de café ☕ </p>
-      <p> - Desenvolvedor web aspirante a Full-Stack 💻 </p> 
-      <p> - Entusiasta de tecnologia  👨‍💻 </p> 
+    <h2> Olá! sou o Breno Moreira, desenvolvedor aspirante a Full-Stack ✋ </h2>
     <br>
   </div>
 
   <div align="center"> <!-- Interfaces -->
     <a href="https://github.com/brenohmoreira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenohmoreira&show_icons=true&theme=graywhite">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenohmoreira&layout=compact&langs_count=16&theme=graywhite">  
+    <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=brenohmoreira&show_icons=true&theme=noctis_minimus">
+    <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenohmoreira&layout=compact&langs_count=16&theme=noctis_minimus">  
     </a>
   </div>
-
-  <div>
-    <div align="center"> <!-- Conteudo sendo utilizado e estudado -->
-      <h2> Utilizo </h2>
-      <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    </div>
-    <hr>
-    <div align="center"> <!-- Conteudo a ser/sendo estudado -->
-      <h2> Aprendendo </h2>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-    </div>
-    <hr>
-    <div align="center"> <!-- Linguagens extras -->
-      <h2> Conheço um pouco (não costumo utilizar) </h2>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-    </div>
-    <hr>
-    <div align="center"> <!-- Redes sociais --> 
-      <h2> Contato </h2>
-      <a href="https://www.linkedin.com/in/breno-am/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >           </a>
-    </div>
+  
+  <br>
+  
+  <div align="center">
+    <h3> Utilizo </h3>
+    <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-plain.svg" width="40">
+    <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-plain.svg" width="40">
+    <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-plain.svg" width="40">
+    <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" width="40">
+    <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" width="40">
+  </div>
+  
+  <hr>
+  
+  <div align="center">
+    <h3> Aprendendo </h3>
+    <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg" width="40">
+    <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" width="40">
+  </div>
+  
+  <hr>
+  
+  <div align="center"> <!-- Redes sociais --> 
+    <h3> Contato </h3>
+    <a href="https://www.linkedin.com/in/breno-am/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
   </div>
 </div>
