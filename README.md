@@ -9,8 +9,8 @@
 
   <div align="center"> <!-- Interfaces -->
     <a href="https://github.com/brenohmoreira">
-    <img height="125em" src="https://github-readme-stats.vercel.app/api?username=brenohmoreira&show_icons=true&theme=graywhite">
-    <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenohmoreira&layout=compact&langs_count=16&theme=graywhite">  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenohmoreira&show_icons=true&theme=graywhite">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenohmoreira&layout=compact&langs_count=16&theme=graywhite">  
     </a>
   </div>
 
