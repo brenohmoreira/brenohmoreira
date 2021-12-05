@@ -26,7 +26,6 @@
   
   <div align="center">
     <h3> Aprendendo </h3>
-    <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-plain.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" width="40">
   </div>
