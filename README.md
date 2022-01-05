@@ -1,6 +1,6 @@
 <div>
   <div align="center"> <!-- Apresentação -->
-    <h2> Olá! sou o Breno Moreira, desenvolvedor aspirante a Full-Stack ✋ </h2>
+    <h2> Olá! Sou o Breno Moreira, desenvolvedor aspirante a Full-Stack ✋ </h2>
     <br>
   </div>
 
