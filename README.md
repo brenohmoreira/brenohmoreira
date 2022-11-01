@@ -18,20 +18,13 @@
     <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-plain.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-plain.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-plain.svg" width="40">
-    <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-plain.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" width="40">
-  </div>
-  
-  <hr>
-  
-  <div align="center">
-    <h3> Aprendendo </h3>
     <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" width="40">
+    <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" width="40">
+    <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" width="40">
   </div>
-  
-  <hr>
-  
-  <div align="center"> <!-- Redes sociais --> 
+   
+  <div align="center"> <!-- Redes sociais -->
     <h3> Contato </h3>
     <a href="https://www.linkedin.com/in/breno-am/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
   </div>
