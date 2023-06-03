@@ -24,6 +24,7 @@
     <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" width="40">
     <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" width="40">
+    <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg" width="40">
   </div>
    
   <div align="center"> <!-- Redes sociais -->
