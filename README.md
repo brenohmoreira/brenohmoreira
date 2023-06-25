@@ -2,7 +2,7 @@
   <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=F0F8FF&height=200&section-header"/>
   
   <div align="center"> <!-- Apresentação -->
-    <h2> Olá! Sou o Breno, desenvolvedor back-end ✋ </h2>
+    <h2> Olá! Sou o Breno, desenvolvedor back-end JAVA/PHP ✋ </h2>
     <br>
   </div>
 
